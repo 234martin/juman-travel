@@ -1,8 +1,7 @@
 {
   "name": "travel-agency-app",
-  "private": true,
   "version": "1.0.0",
-  "type": "module",
+  "private": true,
   "homepage": "https://234martin.github.io/juman-travel",
   "scripts": {
     "dev": "vite",
