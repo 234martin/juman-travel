@@ -23,7 +23,7 @@ export default function Booking() {
     // Integrate your backend or payment logic here
   };
 
-  const whatsappLink = `https://wa.me/254700000000?text=Hello! I would like to inquire about a trip to ${formData.destination}`;
+  const whatsappLink = `https://wa.me/254768129982?text=Hello! I would like to inquire about a trip to ${formData.destination}`;
 
   return (
     <main className="min-h-screen bg-gray-50 flex flex-col">

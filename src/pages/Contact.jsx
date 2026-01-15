@@ -62,7 +62,7 @@ export default function Contact() {
             <FaLinkedinIn />
           </a>
           <a
-            href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
+            href={`https://wa.me/${+254768129982}?text=${encodeURIComponent(
               whatsappMessage
             )}`}
             target="_blank"
